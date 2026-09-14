@@ -1,0 +1,5 @@
+ 
+ Ficávamos em uma praça chamada bom parto. Tive amigos quando eu tinha 16, 17 anos mais ou menos, e eles eram péssimas influências pra mim, apesar de tambem terem interesses iguais aos meus, o que me fez aprender bastante talvez sobre a vida mesmo. Acabei entrando nesse ciclo de amigos justamente conhecendo 2 deles que quiseram montar uma banda (MUSHROOM GARDEN) comigo: "guitarra" (guilherme) E Berardo, o baterista.
+Depois com o tempo conheci o Victor e o Leozinho.
+Todos Eles da bom parto sempre me diminuíram na epoca como se eu fosse otario mas eles nao tinham trabalho nem nada, enquanto eu, sem que ninguem soubesse, estava em uma ótima escola com bolsa de estudos e hoje estou trabalhando em um banco como desenvolvedor. 
+Apesar disso, o Victor sempre foi um bom amigo entre todos eles, porque ele era o que menos me ignorava quando estávamos com outras pessoas. 

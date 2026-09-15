@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Sonhos/Simbolos  ",
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.5,
+  "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 1.11174089068826,
   "lineSizeMultiplier": 0.818748053565867,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.565244472127063,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2588386562181561,
-  "close": true
+  "scale": 0.9999999999999736,
+  "close": false
 }

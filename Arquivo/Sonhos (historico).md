@@ -681,3 +681,23 @@ Foi realmente estranho essa parte. Eu tinha tido um surto mas de certa forma par
 Enfim.
 Antes, no sonho, eu tambem tinha tomado banho junto com a gabi, em outro banheiro que ficava mais perto, na frente da sala dessa minha casa antiga. Estávamos muito de bem, tomamos banho juntos e estávamos dando risada de algo, acho que se beijando tambem, mas o pai dela nao podia ver porque ele nao deixa a gente tomar banho junto.
 FIM DO ARQUIVO
+
+---
+
+## Relações
+
+Este histórico é a fonte primária de todos os sonhos deste vault. Cada registro contido aqui foi convertido em uma nota individual, preservando o texto original na íntegra. Para navegação, use o índice completo em MOC - Sonhos.
+
+- MOC - Sonhos
+- Metro
+- Floresta
+- Montanha
+- Coruja
+- Cobra
+- Onça
+- Piscina
+- Avião
+- Elevador
+- Backrooms
+- Carro
+

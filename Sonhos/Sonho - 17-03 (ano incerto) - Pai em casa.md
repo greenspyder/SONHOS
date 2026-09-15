@@ -19,4 +19,4 @@ Paz, alegria
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 3 – PAI EM CASA).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 3 – PAI EM CASA).

@@ -35,5 +35,5 @@ Sensação de se esconder
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (💤 Sonho 2 – Aparência, Identidade e Corpo).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 2 – Aparência, Identidade e Corpo).
 - [[Persona]] — o próprio relato descreve a sensação de "se esconder atrás" da própria aparência, mantido como associação pessoal e não como fato.

@@ -26,7 +26,7 @@ O tema de identidade aparece em vários sonhos relacionando performance, mudanç
 - [[Contextos/Sandro]]
 
 - [[Sonho - 2026-09-04]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

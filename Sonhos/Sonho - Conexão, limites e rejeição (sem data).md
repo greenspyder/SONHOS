@@ -30,4 +30,4 @@ Responsabilidade emocional
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (💤 Sonho 3 – Conexão, Limites e Rejeição).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 3 – Conexão, Limites e Rejeição).

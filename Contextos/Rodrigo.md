@@ -13,7 +13,7 @@ Rodrigo aparece em sonhos relacionados à mãe do usuário, incluindo uma cena d
 - [[Sonho - 2026-06-18]]
 - [[Sonho - 2026-08-09]]
 - [[Sonho - Elevadores BTG e Marista (sem data)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

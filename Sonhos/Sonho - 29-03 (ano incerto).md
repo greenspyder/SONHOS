@@ -23,4 +23,4 @@ Não especificada no material original.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 7 – COBRA / TRANSFORMAÇÃO).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 7 – COBRA / TRANSFORMAÇÃO).

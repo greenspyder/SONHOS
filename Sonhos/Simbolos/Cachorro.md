@@ -6,10 +6,9 @@ type: symbol
 
 ## Aparições
 
-- [[06-09-26]]
 - [[Sonho - 2026-09-04]]
 - [[Sonho - 2026-09-11]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

@@ -18,7 +18,7 @@ No sonho de 21/07/2026, a presença feminina sentada com expressão de tédio e 
 - [[Self]]
 - [[Sombra]]
 - [[Sonho - 2026-07-21]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Aplicação pessoal
 

@@ -30,7 +30,7 @@ Há múltiplos registros de transformação de cachorro em humano, jacaré em mu
 - [[Contextos/Gordim]]
 - [[Contextos/Lucas Lima]]
 
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

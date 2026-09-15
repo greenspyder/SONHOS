@@ -23,4 +23,4 @@ Ansiedade
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 11 – MONSTROS).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 11 – MONSTROS).

@@ -18,7 +18,7 @@ A sequência de sonhos apresenta a relação entre identidade, performance, vín
 - [[Anima]]
 - [[Sombra]]
 - [[Identidade]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Aplicação pessoal
 

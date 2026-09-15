@@ -31,4 +31,5 @@ Desgosto, solidão, medo
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 17 – POSTO CHIQUE / ANÃO / HOMEM DE VERMELHO).
+- [[Sonho - 2026-06-24]] — "Rigoli era pai do Magaldi": mesmo nome (Magaldi) aparece nos dois registros.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 17 – POSTO CHIQUE / ANÃO / HOMEM DE VERMELHO).

@@ -25,4 +25,4 @@ Tensão, drama
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 21 – FILME / RITUAL / VAMPIROS).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 21 – FILME / RITUAL / VAMPIROS).

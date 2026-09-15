@@ -55,4 +55,4 @@ Desvalorização (réplica)
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (💤 Sonho 5 – Cobrinha, Caverna, Roubo e Identidade).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 5 – Cobrinha, Caverna, Roubo e Identidade).

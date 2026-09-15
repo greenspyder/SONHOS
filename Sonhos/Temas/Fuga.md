@@ -22,7 +22,7 @@ A fuga aparece como resposta a perseguição, presença de animais, mistérios, 
 - [[Contextos/Leozinho]]
 - [[Contextos/Gordim]]
 - [[Contextos/Lucas Lima]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

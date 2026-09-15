@@ -48,4 +48,4 @@ Não especificada no material original.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 16 – LIXÃO / RESORT / GABI). O próprio relato original esclarece que "Pedro" aqui é o namorado de Juju, "nao meu irmao" — por isso não foi associado a [[Contextos/Irmão]].
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 16 – LIXÃO / RESORT / GABI). O próprio relato original esclarece que "Pedro" aqui é o namorado de Juju, "nao meu irmao" — por isso não foi associado a [[Contextos/Irmão]].

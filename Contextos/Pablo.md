@@ -14,7 +14,7 @@ type: person
 - [[Sonho - 2026-09-04]]
 - [[Sonho - Moto, livros e formatura (sem data)]]
 - [[Sonho - Elevadores BTG e Marista (sem data)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto
 

@@ -7,7 +7,7 @@ type: symbol
 ## Aparições
 
 - [[Sonho - Cabine verde, animais e onça (sem data)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

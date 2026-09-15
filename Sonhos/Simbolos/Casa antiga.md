@@ -11,7 +11,7 @@ type: symbol
 - [[Sonho - 18-03 (ano incerto)]]
 - [[Sonho - 10-04 (ano incerto)]]
 - [[Sonho - TV quebrada e casa antiga (sem data)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

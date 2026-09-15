@@ -19,4 +19,4 @@ Não especificada no material original.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 8 – VAMPIROS / FILME).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 8 – VAMPIROS / FILME).

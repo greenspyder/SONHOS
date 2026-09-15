@@ -31,4 +31,4 @@ Preocupação
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 5 – CASA ANTIGA / FAMÍLIA / PROTESTO).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 5 – CASA ANTIGA / FAMÍLIA / PROTESTO).

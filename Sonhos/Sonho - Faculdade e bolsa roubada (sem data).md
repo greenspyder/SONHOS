@@ -14,5 +14,5 @@ Alguém estudava em uma faculdade bem grande que lembrava até minha antiga esco
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original ("Sonhos seguintes", item 1). O próprio autor registra incerteza sobre a identidade da personagem ("nao lembro se era a própria gabi"), preservada aqui como dúvida.
+- Sonhos (historico) (arquivo removido do vault) — fonte original ("Sonhos seguintes", item 1). O próprio autor registra incerteza sobre a identidade da personagem ("nao lembro se era a própria gabi"), preservada aqui como dúvida.
 - [[Sonho - Cobrinha, caverna, roubo e identidade (sem data)]] — cena semelhante de bolsa roubada e investigação estilo detetive.

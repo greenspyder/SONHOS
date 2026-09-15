@@ -7,7 +7,7 @@ type: symbol
 ## Aparições
 
 - [[Sonho - 29-03 (ano incerto)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

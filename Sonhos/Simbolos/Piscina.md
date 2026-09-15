@@ -11,7 +11,7 @@ type: symbol
 - [[Sonho - 09-03 (ano incerto)]]
 - [[Sonho - 10-04 (ano incerto)]]
 - [[Sonho - Festa na piscina do Inteli (sem data)]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

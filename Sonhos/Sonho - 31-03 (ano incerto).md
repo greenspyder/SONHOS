@@ -20,4 +20,4 @@ Raiva
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 9 – CASA EM CONSTRUÇÃO / PAI).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 9 – CASA EM CONSTRUÇÃO / PAI).

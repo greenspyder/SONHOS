@@ -31,4 +31,4 @@ Curiosidade
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 2 – ÔNIBUS / BACKROOMS / CACHORRO). O "Pedro" citado aqui não foi identificado com certeza como o irmão do sonhador; permanece como dúvida.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 2 – ÔNIBUS / BACKROOMS / CACHORRO). O "Pedro" citado aqui não foi identificado com certeza como o irmão do sonhador; permanece como dúvida.

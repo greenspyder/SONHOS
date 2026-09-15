@@ -21,7 +21,7 @@ O tema de perseguição aparece em vários registros como presença de animais, 
 - [[Contextos/Pai]]
 - [[Contextos/Mãe]]
 - [[Contextos/Pablo]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

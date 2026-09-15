@@ -18,7 +18,7 @@ O tema de ciúmes aparece em múltiplos registros de sonho, geralmente ligado a 
 - [[Contextos/Irmão]]
 - [[Contextos/Pablo]]
 - [[Contextos/Sandro]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

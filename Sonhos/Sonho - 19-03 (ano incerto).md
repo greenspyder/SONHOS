@@ -20,4 +20,4 @@ Não especificada no material original.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 6 – CASA GRANDE / BARBEIRO / BEBIDA).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 6 – CASA GRANDE / BARBEIRO / BEBIDA).

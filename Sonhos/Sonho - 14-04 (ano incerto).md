@@ -29,4 +29,4 @@ Nervosismo, ansiedade
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 20 – GABI / VIDRO / CIÚMES).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 20 – GABI / VIDRO / CIÚMES).

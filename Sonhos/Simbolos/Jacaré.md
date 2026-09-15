@@ -6,7 +6,7 @@ type: symbol
 
 ## Aparições
 
-- [[06-09-26]]
+- [[Sonho - 2026-09-04]]
 
 ## Contexto nos sonhos
 

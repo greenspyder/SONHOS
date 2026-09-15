@@ -18,7 +18,7 @@ Há muitas cenas de personagens com transformações, máscaras, identidade, exc
 - [[Anima]]
 - [[Identidade]]
 - [[Transformação]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Aplicação pessoal
 

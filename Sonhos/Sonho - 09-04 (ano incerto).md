@@ -29,4 +29,4 @@ referência ao padrasto
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 15 – ÔNIBUS / TERROR / STRANGER THINGS).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 15 – ÔNIBUS / TERROR / STRANGER THINGS).

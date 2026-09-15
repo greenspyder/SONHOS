@@ -21,4 +21,4 @@ Desgosto
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 13 – METRÔ / DEBATE).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 13 – METRÔ / DEBATE).

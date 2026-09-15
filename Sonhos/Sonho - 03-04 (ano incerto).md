@@ -31,4 +31,4 @@ Não especificada além de "senti ciúmes" no próprio relato.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 10 – CIÚMES / CACHORRO / CARNAVAL). "Minha irmã mais nova" (Manu) é mencionada aqui; essa relação familiar não está descrita em nenhuma nota de contexto existente — permanece como dúvida a ser esclarecida.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 10 – CIÚMES / CACHORRO / CARNAVAL). "Minha irmã mais nova" (Manu) é mencionada aqui; essa relação familiar não está descrita em nenhuma nota de contexto existente — permanece como dúvida a ser esclarecida.

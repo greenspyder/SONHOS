@@ -19,7 +19,7 @@ O tema de perigo aparece em vários sonhos, associado a ameaças, armas, persegu
 - [[Contextos/Leozinho]]
 - [[Contextos/Gordim]]
 - [[Contextos/Lucas Lima]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

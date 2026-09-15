@@ -36,4 +36,4 @@ Em alguma parte do sonho teve algo sobre uma religião diferente que remetia a r
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original ("Sonhos seguintes", item 3).
+- Sonhos (historico) (arquivo removido do vault) — fonte original ("Sonhos seguintes", item 3).

@@ -10,7 +10,7 @@ type: symbol
 - [[Sonho - 2026-08-03]]
 - [[Sonho - 2026-08-05]]
 - [[Sonho - 2026-08-26]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

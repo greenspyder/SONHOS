@@ -8,7 +8,7 @@ type: place
 
 - [[Sonho - 2026-06-22]]
 - [[Sonho - 2026-08-10]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Contexto nos sonhos
 

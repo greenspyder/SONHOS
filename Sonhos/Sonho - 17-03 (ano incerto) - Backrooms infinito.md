@@ -18,4 +18,4 @@ Não lembra (registrado como "- (não lembro)" no material original).
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 4 – BACKROOMS INFINITO). Registro muito breve, sem mais contexto no material original.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 4 – BACKROOMS INFINITO). Registro muito breve, sem mais contexto no material original.

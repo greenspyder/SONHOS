@@ -57,4 +57,5 @@ Raiva por ser diminuído
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 12 – CORRIDA DE MONSTROS / FESTA / TRABALHO). Este registro mistura várias cenas (corrida, festa, trabalho, bully, veículos) preservadas na ordem e divisão do material original.
+- [[Sonho - 2026-06-24]] — "Rigoli era pai do Magaldi": mesmo nome (Rigoli) aparece nos dois registros.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 12 – CORRIDA DE MONSTROS / FESTA / TRABALHO). Este registro mistura várias cenas (corrida, festa, trabalho, bully, veículos) preservadas na ordem e divisão do material original.

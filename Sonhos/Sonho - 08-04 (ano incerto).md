@@ -15,4 +15,4 @@ Não especificada no material original.
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 14 – VIAGEM / CARTÃO). Registro muito breve, sem mais contexto no material original.
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 14 – VIAGEM / CARTÃO). Registro muito breve, sem mais contexto no material original.

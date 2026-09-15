@@ -39,4 +39,4 @@ Alguma zoeira sobre eu perguntar pro fidelis meu amigo se ele ouviu tal musica: 
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original ("Sonhos seguintes", item 2). O próprio autor esclarece que "Inteli = faculdade na qual me formei", confirmando a identidade desse lugar recorrente.
+- Sonhos (historico) (arquivo removido do vault) — fonte original ("Sonhos seguintes", item 2). O próprio autor esclarece que "Inteli = faculdade na qual me formei", confirmando a identidade desse lugar recorrente.

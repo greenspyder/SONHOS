@@ -47,4 +47,4 @@ Alívio
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (💤 Sonho 4 – Cabine Verde, Animais e Onça).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 4 – Cabine Verde, Animais e Onça).

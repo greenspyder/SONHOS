@@ -28,4 +28,4 @@ Antes, no sonho, eu tambem tinha tomado banho junto com a gabi, em outro banheir
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original ("Sonhos seguintes", item 4, último registro do arquivo). O próprio autor descreve o episódio como um surto que "de certa forma parecia" ter sido fingido, mantido aqui como registro literal e não como interpretação do sistema.
+- Sonhos (historico) (arquivo removido do vault) — fonte original ("Sonhos seguintes", item 4, último registro do arquivo). O próprio autor descreve o episódio como um surto que "de certa forma parecia" ter sido fingido, mantido aqui como registro literal e não como interpretação do sistema.

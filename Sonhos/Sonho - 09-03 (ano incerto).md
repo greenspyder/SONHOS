@@ -36,4 +36,4 @@ Medo, confusão
 
 ## Relações
 
-- [[Sonhos (historico)]] — fonte original (SONHO 1 – PRÉDIO / PISCINA / MACHADO).
+- Sonhos (historico) (arquivo removido do vault) — fonte original (SONHO 1 – PRÉDIO / PISCINA / MACHADO).

@@ -24,7 +24,7 @@ O tema de observação aparece em vários registros, com presença de florestas,
 - [[Contextos/Leozinho]]
 - [[Contextos/Gordim]]
 - [[Contextos/Lucas Lima]]
-- [[Sonhos (historico)]]
+- Sonhos (historico) (arquivo removido do vault)
 
 ## Observação
 

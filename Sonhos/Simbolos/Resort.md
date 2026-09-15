@@ -11,7 +11,7 @@ type: place
 
 ## Contexto nos sonhos
 
-O resort aparece como lugar de sobrevivência, play role play e cenário de rede de personagens, montanha e piscinas.
+O resort aparece como lugar de sobrevivência, role play e cenário de rede de personagens, montanha e piscinas.
 
 ## Associações pessoais
 

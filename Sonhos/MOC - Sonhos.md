@@ -119,8 +119,7 @@ Todas as notas abaixo estão em `Sonhos/Simbolos/`, exceto os contextos reais.
 - [[Resort]]
 - [[Shopping]]
 - [[Biblioteca]]
-- [[Contextos/BTG]]
-- [[Contextos/Faculdade]]
+- [[Contextos/BTG e Inteli]]
 
 ## Temas recorrentes
 

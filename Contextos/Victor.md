@@ -16,3 +16,11 @@ Victor é um amigo antigo do período da [[Contextos/Bom parto]], com quem o usu
 
 - [[Contextos/Bom parto]]
 - [[Leozinho]]
+
+## Temas relacionados
+
+- [[Ser observado]]
+- [[Fuga]]
+- [[Transformação]]
+- [[Perigo]]
+- [[Desapego]]

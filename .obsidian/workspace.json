@@ -183,6 +183,9 @@
   },
   "active": "ba63f9fbf12b433b",
   "lastOpenFiles": [
+    "Sonhos/Temas/Ciúmes.md",
+    "check_links.ps1",
+    "Contextos/BTG e Inteli.md",
     "Contextos/BTG.md",
     "settings.gradle.kts",
     "privacy-policy.md",
@@ -194,7 +197,6 @@
     "gradle/libs.versions.toml",
     "gradle",
     "gradle.properties",
-    "build.gradle.kts",
     "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp",
     "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
@@ -218,7 +220,6 @@
     "Sonhos/Temas/Identidade.md",
     "Sonhos/Temas/Fuga.md",
     "Sonhos/Temas/Desapego.md",
-    "Sonhos/Temas/Ciúmes.md",
     "Sonhos/Temas/Anima.md",
     "Contextos/Mãe.md",
     "Git/Contextos/Mãe.md",
@@ -226,8 +227,6 @@
     "Arquivo/13-09-26.md",
     "Arquivo/11-09-26.md",
     "Arquivo/06-09-26.md",
-    "Sonhos/Arquivo/13-09-26.md",
-    "Sonhos/Arquivo/11-09-26.md",
-    "Sonhos/Arquivo/06-09-26.md"
+    "Sonhos/Arquivo/13-09-26.md"
   ]
 }

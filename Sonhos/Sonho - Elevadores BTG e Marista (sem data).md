@@ -31,8 +31,7 @@ Alguma zoeira sobre eu perguntar pro fidelis meu amigo se ele ouviu tal musica: 
 
 ## Lugares
 
-[[Contextos/BTG]]
-[[Contextos/Faculdade]]
+[[Contextos/BTG e Inteli]]
 
 ## Elementos
 

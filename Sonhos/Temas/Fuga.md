@@ -15,6 +15,13 @@ A fuga aparece como resposta a perseguição, presença de animais, mistérios, 
 - [[Ser observado]]
 - [[Floresta]]
 - [[Sonho - 2026-09-11]]
+- [[Sonho - 2026-09-13]]
+- [[Contextos/Gabi]]
+- [[Contextos/Pai]]
+- [[Contextos/Victor]]
+- [[Contextos/Leozinho]]
+- [[Contextos/Gordim]]
+- [[Contextos/Lucas Lima]]
 - [[Sonhos (historico)]]
 
 ## Observação

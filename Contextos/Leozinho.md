@@ -16,3 +16,11 @@ Leozinho é um amigo antigo do período da [[Contextos/Bom parto]], com quem o u
 
 - [[Contextos/Bom parto]]
 - [[Contextos/Victor]]
+
+## Temas relacionados
+
+- [[Ser observado]]
+- [[Fuga]]
+- [[Transformação]]
+- [[Perigo]]
+- [[Desapego]]

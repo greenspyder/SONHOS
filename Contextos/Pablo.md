@@ -24,3 +24,12 @@ Pablo aparece como personagem em vários registros, com presença de jacaré, ca
 
 - [[Contextos/Gabi]]
 - [[Sonho - 2026-09-04]]
+
+## Temas relacionados
+
+- [[Transformação]]
+- [[Identidade]]
+- [[Ser observado]]
+- [[Perseguição]]
+- [[Pertencimento]]
+- [[Ciúmes]]

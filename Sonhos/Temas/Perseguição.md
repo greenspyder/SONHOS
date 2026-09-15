@@ -16,6 +16,11 @@ O tema de perseguição aparece em vários registros como presença de animais, 
 - [[Monstro]]
 - [[Fuga]]
 - [[Sonho - 2026-09-11]]
+- [[Sonho - 15-03 (ano incerto)]]
+- [[Contextos/Gabi]]
+- [[Contextos/Pai]]
+- [[Contextos/Mãe]]
+- [[Contextos/Pablo]]
 - [[Sonhos (historico)]]
 
 ## Observação

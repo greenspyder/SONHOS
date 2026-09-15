@@ -19,3 +19,11 @@ O usuário associa a cena com a sensação de brincadeira de zuação e possíve
 ## Interpretações
 
 As interpretações precisam se manter como hipótese. O material não atribui um sentido fixo.
+
+## Temas relacionados
+
+- [[Ser observado]]
+- [[Fuga]]
+- [[Transformação]]
+- [[Perigo]]
+- [[Desapego]]

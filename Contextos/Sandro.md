@@ -24,3 +24,10 @@ Sandro aparece em vários sonhos, associado à figura de sogro (pai de Gabi), a 
 ## Observação
 
 Este registro descreve apenas como Sandro aparece nos sonhos, sem afirmar fatos sobre a pessoa real além do que está documentado nos relatos.
+
+## Temas relacionados
+
+- [[Identidade]]
+- [[Ser observado]]
+- [[Ciúmes]]
+- [[Transformação]]

@@ -18,6 +18,13 @@ O tema de identidade aparece em vários sonhos relacionando performance, mudanç
 - [[Sonho - 12-04 (ano incerto)]]
 - [[Sonho - Aparência, identidade e corpo (sem data)]]
 - [[Sonho - Cobrinha, caverna, roubo e identidade (sem data)]]
+- [[Contextos/Gabi]]
+- [[Contextos/Pai]]
+- [[Contextos/Mãe]]
+- [[Contextos/Irmão]]
+- [[Contextos/Pablo]]
+- [[Contextos/Sandro]]
+
 - [[Sonho - 2026-09-04]]
 - [[Sonhos (historico)]]
 

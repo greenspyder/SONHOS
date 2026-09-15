@@ -19,3 +19,11 @@ O registro do sonho liga a figura de Lucas Lima com o medo e a observação do m
 ## Interpretações
 
 Não existem leituras universais. Só o contexto do sonho é preservado.
+
+## Temas relacionados
+
+- [[Ser observado]]
+- [[Fuga]]
+- [[Transformação]]
+- [[Perigo]]
+- [[Desapego]]

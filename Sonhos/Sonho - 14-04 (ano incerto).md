@@ -21,7 +21,7 @@ Nervosismo, ansiedade
 
 ## Lugares
 
-[[Contextos/Faculdade]]
+[[Contextos/BTG e Inteli]]
 
 ## Temas
 

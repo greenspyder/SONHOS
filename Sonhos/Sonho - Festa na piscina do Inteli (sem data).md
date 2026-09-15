@@ -27,7 +27,7 @@ Em alguma parte do sonho teve algo sobre uma religião diferente que remetia a r
 
 ## Lugares
 
-[[Contextos/Faculdade]]
+[[Contextos/BTG e Inteli]]
 [[Hotel]]
 
 ## Elementos

@@ -1,0 +1,6 @@
+O tema de Ascensão pode vir como subidas de escada, subida de montanha, Torres, morros, ruas íngremes e de muitas outras formas nos meus sonhos. 
+Normalmente, existem obstáculos acompanhando a ascensão, o que seria esperado em uma metafora para individuação ou conquista, crescimento, evolução em geral. 
+Quando se está no topo pode existir o medo da altura em que se chegou. Pode ocorrer tambem um estranhamento com as pessoas que estão ali, as vezes com um sentimento de solidão acompanhando. 
+Mas quase sempre há um sentimento de vitória no fundo, quando já estamos no topo. 
+A queda pode ocorrer tanto de forma leve e positiva, como se facilmente fosse possivel voltar para aquele lugar novamente, quanto pode ocorrer de forma assustadora. Isso depende muito do sonho e do contexto. 
+Em geral, o tema da ascensão é um tema que aparece junto com outros, entao poderia ser considerado talvez como um tema mais secundário, adquirindo mais força de significado quando combinado com outros temas, contextos ou símbolos. 

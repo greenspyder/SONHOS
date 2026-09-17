@@ -15,7 +15,7 @@ O tema de identidade aparece em vários sonhos relacionando performance, mudanç
 - [[Sombra]]
 - [[Self]]
 - [[Sonho - 2026-08-25]]
-- [[Sonho - 12-04 (ano incerto)]]
+- [[Sonho - 12-04 (ano incerto)]].
 - [[Sonho - Aparência, identidade e corpo (sem data)]]
 - [[Sonho - Cobrinha, caverna, roubo e identidade (sem data)]]
 - [[Contextos/Gabi]]

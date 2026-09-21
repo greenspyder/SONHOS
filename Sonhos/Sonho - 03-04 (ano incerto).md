@@ -5,7 +5,7 @@
 ## Relato
 
 Arthur (primo da gabi) mordendo a Gabi (senti ciúmes).
-Bulldog rosnando pra Manu (minha ![[irma mais nova)
+Bulldog rosnando pra Manu (minha irma mais nova)
 Meu pai assustado.
 Carnaval muito lotado.
 Encontrei amigos do rock do meu pai.

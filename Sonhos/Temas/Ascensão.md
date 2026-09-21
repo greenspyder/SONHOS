@@ -15,3 +15,15 @@ ou
 ou
 “será que pertenço aqui?”
 Isso me parece mais importante do que a própria ascensão.
+
+## Relações
+
+- [[Sonho - 2026-09-15]] — subida da torre.
+- [[Sonho - 2026-09-16]] — escada até a "área gourmet".
+- [[Sonho - 2026-07-21]] — subida da montanha.
+- [[Sonho - 2026-06-22]] — subida bloqueada (elevador leva a Backrooms em vez de chegar ao topo).
+- [[Torre]]
+- [[Montanha]]
+- [[Ser observado]]
+- [[Identidade]]
+

@@ -1,11 +1,11 @@
 Meu irmão se chama Pedro.
-Tem 12 anos, tem o cabelo bem liso e escuro, é meu irmao por parte de mãe. 
+Tem 12 anos, é gordinho, ainda nao cresceu muito, tem o cabelo bem liso e escuro, é meu irmao por parte de mãe. 
 
 ---
 
 ## Aparições nos sonhos
 
-[[Sonho - Aparência, identidade e corpo (sem data)]], [[Sonho - Moto, livros e formatura (sem data)]], [[Sonho - TV quebrada e casa antiga (sem data)]]
+[[Sonho - Aparência, identidade e corpo (sem data)]], [[Sonho - Moto, livros e formatura (sem data)]], [[Sonho - TV quebrada e casa antiga (sem data)]], [[Sonho - 2026-09-17]], [[Sonho - 2026-09-18]]
 
 ## Temas relacionados
 

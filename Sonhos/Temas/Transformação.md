@@ -18,6 +18,7 @@ Há múltiplos registros de transformação de cachorro em humano, jacaré em mu
 - [[Sonho - 2026-06-23]]
 - [[Sonho - 2026-06-30]]
 - [[Sonho - 2026-09-11]]
+- [[Sonho - 2026-09-19]]
 - [[Sonho - 2026-09-13]]
 - [[Sonho - 29-03 (ano incerto)]]
 - [[Contextos/Gabi]]

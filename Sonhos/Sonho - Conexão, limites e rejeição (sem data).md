@@ -28,6 +28,14 @@ Responsabilidade emocional
 
 [[Contextos/Gabi]]
 
+## Elementos
+
+[[Jogos]]
+
+## Temas
+
+[[Pertencimento]]
+
 ## Relações
 
 - Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 3 – Conexão, Limites e Rejeição).

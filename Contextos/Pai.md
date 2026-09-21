@@ -13,6 +13,7 @@ Vale comentar, tenho 2 irmãs por parte de pai, Manuela e Fernanda.
 
 ## Aparições nos sonhos
 
+[[Sonho - 2026-09-17]]
 [[Sonho - 2026-06-07]], [[Sonho - 2026-07-02]], [[Sonho - 2026-08-03]], [[Sonho - 2026-09-04]], [[Sonho - 2026-09-11]], [[Sonho - 17-03 (ano incerto) - Pai em casa]], [[Sonho - 30-03 (ano incerto)]], [[Sonho - 31-03 (ano incerto)]], [[Sonho - 03-04 (ano incerto)]], [[Sonho - Festa na piscina do Inteli (sem data)]]
 
 ## Temas relacionados

@@ -8,7 +8,7 @@ No geral ela é uma ótima mae, apesar desses pontos complicados que dizem respe
 
 ## Aparições nos sonhos
 
-[[Sonho - 2026-06-07]], [[Sonho - 2026-07-02]], [[Sonho - 2026-07-03]], [[Sonho - 2026-08-03]], [[Sonho - 2026-08-09]], [[Sonho - 2026-08-17]], [[Sonho - 2026-09-04]], [[Sonho - 09-04 (ano incerto)]], [[Sonho - 18-03 (ano incerto)]], [[Sonho - Cabine verde, animais e onça (sem data)]]
+[[Sonho - 2026-06-07]], [[Sonho - 2026-07-02]], [[Sonho - 2026-07-03]], [[Sonho - 2026-08-03]], [[Sonho - 2026-08-09]], [[Sonho - 2026-08-17]], [[Sonho - 2026-09-04]], [[Sonho - 09-04 (ano incerto)]], [[Sonho - 18-03 (ano incerto)]], [[Sonho - Cabine verde, animais e onça (sem data)]], [[Sonho - 2026-09-17]], [[Sonho - 2026-09-18]]
 
 ## Temas relacionados
 

@@ -11,6 +11,7 @@ O tema de pertencimento aparece de forma central na interpretação registrada p
 ## Relações
 
 - [[Sonho - 2026-09-04]]
+- [[Sonho - Conexão, limites e rejeição (sem data)]] — lado oposto do tema: sensação de rejeição e não pertencimento.
 - [[Identidade]]
 - [[Persona]]
 - [[Contextos/Gabi]]

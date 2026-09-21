@@ -17,8 +17,18 @@ O hotel aparece como lugar de hospedagem, de passagem e de cenário coletivo com
 
 ## Associações pessoais
 
-O relato personagem registra sensação de lugar sujo, barulho e $muita gente$.
+O relato registra sensação de lugar sujo, barulho e muita gente.
 
 ## Interpretações
 
 Não há leitura universal. O hotel funciona como cenário de transição entre família e personalidade.
+
+## Hipóteses
+
+Assim como o Resort, o hotel aparece como lugar de passagem fora de casa, mas com conotação mais negativa (sujeira, barulho, desconforto) do que o Resort, que costuma vir com sensação de sobrevivência ou lazer.
+
+## Relações
+
+- [[Resort]]
+- [[Apartamento]]
+- [[Avião]]

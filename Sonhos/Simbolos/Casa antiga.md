@@ -28,3 +28,11 @@ A casa antiga funciona como apoio de memória pessoal; não se apontam interpret
 ## Hipóteses
 
 Pode funcionar como espaço de origem, família e vínculo íntimo com o passado.
+
+## Relações
+
+- [[Apartamento]]
+- [[Contextos/Pai]]
+- [[Contextos/Mãe]]
+- [[Contextos/Gabi]]
+

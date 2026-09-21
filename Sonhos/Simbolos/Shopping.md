@@ -19,3 +19,11 @@ O usuário registra que o shopping funcionou como cenário de saída e relação
 ## Interpretações
 
 Apenas um contexto de movimento e saída. Sem leitura universal.
+
+## Hipóteses
+
+Pode funcionar como um cenário de transição entre o mundo público/coletivo e o Resort, que aparece logo em seguida no mesmo sonho.
+
+## Relações
+
+- [[Resort]]

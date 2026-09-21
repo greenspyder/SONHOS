@@ -23,3 +23,10 @@ O apartamento é tratado apenas como cenário e sensação emocional.
 ## Hipóteses
 
 Pode funcionar como espaço de identidade, pertencimento e reorganização do eu.
+
+## Relações
+
+- [[Hotel]]
+- [[Casa antiga]]
+- [[Identidade]]
+- [[Pertencimento]]

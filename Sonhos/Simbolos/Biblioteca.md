@@ -19,3 +19,11 @@ Não há associação pessoal registrada além do encontro com o pai.
 ## Interpretações
 
 Não há leitura universal atribuída. Apenas um cenário observado.
+
+## Hipóteses
+
+Com apenas uma aparição, não há evidência suficiente para hipóteses sobre seu significado.
+
+## Relações
+
+- [[Contextos/Pai]]

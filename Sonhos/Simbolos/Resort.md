@@ -7,6 +7,7 @@ type: place
 ## Aparições
 
 - [[Sonho - 2026-09-13]]
+- [[Sonho - 2026-09-19]]
 - [[Sonho - 10-04 (ano incerto)]]
 
 ## Contexto nos sonhos

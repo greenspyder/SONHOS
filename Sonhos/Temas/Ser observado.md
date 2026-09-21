@@ -15,6 +15,7 @@ O tema de observação aparece em vários registros, com presença de florestas,
 - [[Polvo]]
 - [[Monstro]]
 - [[Fantasma]]
+- [[Sonho - 2026-09-16]]
 - [[Contextos/Gabi]]
 - [[Contextos/Pai]]
 - [[Contextos/Mãe]]

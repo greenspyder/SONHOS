@@ -19,6 +19,8 @@ Sandro aparece em vários sonhos, associado à figura de sogro (pai de Gabi), a 
 - [[Sonho - Cobrinha, caverna, roubo e identidade (sem data)]]
 - [[Sonho - Elevadores BTG e Marista (sem data)]]
 - [[Sonho - TV quebrada e casa antiga (sem data)]]
+- [[Sonho - 2026-09-16]]
+- [[Sonho - 2026-09-20]]
 - Sonhos (historico) (arquivo removido do vault)
 
 ## Observação

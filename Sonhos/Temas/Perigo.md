@@ -12,6 +12,8 @@ O tema de perigo aparece em vários sonhos, associado a ameaças, armas, persegu
 
 - [[Sonho - 2026-07-05]]
 - [[Sonho - 2026-09-13]]
+- [[Sonho - 2026-06-22]]
+- [[Sonho - 2026-07-13]]
 - [[Perseguição]]
 - [[Fuga]]
 - [[Contextos/Gabi]]

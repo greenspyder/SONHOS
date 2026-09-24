@@ -1,0 +1,1 @@
+Este símbolo pode ser usado para grandes eventos que lembram e provavelmente denotam uma formatura. 

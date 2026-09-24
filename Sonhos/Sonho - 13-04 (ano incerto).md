@@ -7,7 +7,7 @@
 Casa da Gabi.
 Ela me mostrando música de anime (drama).
 Outros elementos:
-formatura
+[[Formatura]]
 certificado/prêmio
 jogo de pônei mundo aberto
 

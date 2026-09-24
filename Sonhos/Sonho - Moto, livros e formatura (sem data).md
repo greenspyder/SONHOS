@@ -51,3 +51,4 @@ Undertone na vida real é um filme de terror (A24), no sonho virou livro
 
 - Sonhos (historico) (arquivo removido do vault) — fonte original (💤 Sonho 1 – Moto, Livros e Formatura).
 - [[Persona]] — o próprio relato associa a "parte central" do cérebro à "compreensão do humor (talvez essência/persona)", mantido como associação pessoal e não como fato.
+- [[Formatura]]

@@ -8,6 +8,8 @@ type: concept
 
 O tema de desapego aparece de forma central na interpretação registrada pelo próprio autor no sonho de 13/09/2026, ligado à ideia de que "desapegar do próprio ego" seria a condição para sobreviver no cenário do sonho (o "resort selvagem").
 
+Você frequentemente está tentando chegar a uma posição em que consegue ver a situação de outro lugar, em vez de ficar completamente dentro dela.
+
 ## Relações
 
 - [[Sonho - 2026-09-13]]

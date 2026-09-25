@@ -16,6 +16,8 @@ ou
 “será que pertenço aqui?”
 Isso me parece mais importante do que a própria ascensão.
 
+torre, plataformas, lugares altos, cidade vista de cima, elevador, subir. Você frequentemente está tentando chegar a uma posição em que consegue ver a situação de outro lugar, em vez de ficar completamente dentro dela.
+
 ## Relações
 
 - [[Sonho - 2026-09-15]] — subida da torre.

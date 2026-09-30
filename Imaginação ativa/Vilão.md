@@ -64,3 +64,29 @@ transformação.
 O vilão literalmente não tem uma identidade fixa.
 
 E eu manteria o polvo da árvore como a verdadeira forma dele. Porque esse é um dos detalhes mais originais que apareceram no seu arquivo — e não precisamos inventar um símbolo novo quando você já criou um involuntariamente.
+
+Então talvez o Observador seja menos:
+"Eu vou te destruir."
+e mais:
+"Eu vou determinar os limites dentro dos quais você pode existir."
+Isso combina muito com ele esperar.
+Ele não precisa correr atrás porque, de certa maneira, ele já está dentro do sistema.
+
+Mas talvez não sejam várias formas diferentes.
+Talvez seja sempre a mesma coisa tentando encontrar a forma que terá mais poder sobre você naquele momento.
+
+Você pode olhar para ele e pensar:
+"Eu conheço você."
+Só que não consegue descobrir quem.
+
+Você escreveu:
+"desejo → consumo → prazer → palavra → expressão."
+Eu acrescentaria incorporação.
+Porque comer nos seus sonhos não aparece apenas como alimentação. Às vezes é extremamente corporal e perturbador: alguém come o próprio corpo, alguém come um animal, alguém se transforma no animal, partes do corpo são trocadas.
+Então existe uma sequência possível:
+querer algo → incorporar algo → tornar-se algo.
+E isso combina perfeitamente com o Observador não ter identidade fixa.
+Talvez ele não tenha uma identidade própria porque vive incorporando as identidades dos outros.
+
+
+

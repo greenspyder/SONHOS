@@ -1,0 +1,1 @@
+Gordinho que era o guitarrista da banda que eu entrei quando era mais novo, "Mushroom Garden". Era eu, guitarra e berardo (baterista) na banda. Eu gostava muito deles mas bebiamos muito e ele ficava dando em cima de mim, depois ele mentiu dizendo que eu quis ficar com ele e que nao queria mais eu na banda por causa disso.

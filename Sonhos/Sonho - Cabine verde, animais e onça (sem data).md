@@ -39,7 +39,7 @@ Alívio
 
 ## Lugares
 
-[[Floresta]]
+[[Git/Sonhos/Simbolos/Floresta]]
 
 ## Elementos
 

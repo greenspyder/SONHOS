@@ -29,6 +29,6 @@ Assim como o Resort, o hotel aparece como lugar de passagem fora de casa, mas co
 
 ## Relações
 
-- [[Resort]]
+- [[Git/Sonhos/Simbolos/Resort]]
 - [[Apartamento]]
 - [[Avião]]

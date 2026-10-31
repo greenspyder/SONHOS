@@ -26,4 +26,4 @@ Pode funcionar como um cenário de transição entre o mundo público/coletivo e
 
 ## Relações
 
-- [[Resort]]
+- [[Git/Sonhos/Simbolos/Resort]]

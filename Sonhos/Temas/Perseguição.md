@@ -12,7 +12,7 @@ O tema de perseguição aparece em vários registros como presença de animais, 
 
 - [[Cachorro]]
 - [[Carro]]
-- [[Floresta]]
+- [[Git/Sonhos/Simbolos/Floresta]]
 - [[Monstro]]
 - [[Fuga]]
 - [[Torre]]

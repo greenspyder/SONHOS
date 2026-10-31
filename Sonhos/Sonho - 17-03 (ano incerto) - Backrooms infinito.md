@@ -14,7 +14,7 @@ Não lembra (registrado como "- (não lembro)" no material original).
 
 ## Elementos
 
-[[Backrooms]]
+[[Git/Sonhos/Simbolos/Backrooms]]
 
 ## Relações
 

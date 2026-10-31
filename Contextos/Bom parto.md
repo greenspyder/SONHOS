@@ -3,3 +3,8 @@
 Depois com o tempo conheci o Victor e o Leozinho.
 Todos Eles da bom parto sempre me diminuíram na epoca como se eu fosse otario mas eles nao tinham trabalho nem nada, enquanto eu, sem que ninguem soubesse, estava em uma ótima escola com bolsa de estudos e hoje estou trabalhando em um banco como desenvolvedor. 
 Apesar disso, o Victor sempre foi um bom amigo entre todos eles, porque ele era o que menos me ignorava quando estávamos com outras pessoas. 
+
+Pessoas: 
+
+[[Guitarra]]
+[[Victor]]

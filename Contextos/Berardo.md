@@ -1,0 +1,1 @@
+Cabeludo da banda que era mais velho que o Guitarra e tocava bateria. Ele era muito gente boa comigo e trocava mais ideia comigo do que o Guitarra. Talvez ele tenha tido ciumes disso (o guitarra) e por isso fez o que fez. 

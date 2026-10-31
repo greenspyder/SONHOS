@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "2026-05",
+  "search": "escada",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.745499844285269,
   "lineSizeMultiplier": 0.818748053565867,
-  "collapse-forces": true,
-  "centerStrength": 0.565244472127063,
-  "repelStrength": 20,
+  "collapse-forces": false,
+  "centerStrength": 0.450638430395515,
+  "repelStrength": 14.6597199609248,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.18462326225857514,
-  "close": false
+  "scale": 0.7132754626224104,
+  "close": true
 }

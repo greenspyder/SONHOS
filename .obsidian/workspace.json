@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "12bc10ea731c842a",
+        "id": "70855861e454a1a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ba63f9fbf12b433b",
+            "id": "9516ee8ff47d4560",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Sonhos/Temas/Ascensão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascensão"
+            }
+          },
+          {
+            "id": "6a62f22fea6cd16e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonhos/Sonho - 2026-06-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonho - 2026-06-22"
+            }
+          },
+          {
+            "id": "30cae0a9a06c6621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imaginação ativa/Hipóteses/ASTRA — HIPÓTESE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASTRA — HIPÓTESE"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,52 +214,53 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ba63f9fbf12b433b",
+  "active": "30cae0a9a06c6621",
   "lastOpenFiles": [
-    "check_links.ps1",
-    "Sonhos/Sonho - 05-04 (ano incerto).md",
-    "Sonhos/Temas/Ascensão.md",
-    "Sonhos/Simbolos/Elevador.md",
-    "Sonhos/Simbolos/Cachorro.md",
-    "Sonhos/Simbolos/Avião.md",
-    "Sonhos/Temas/Anima.md",
-    "Sonhos/Simbolos/Jacaré.md",
-    "Sonhos/Simbolos/Torre.md",
-    "Sonhos/Sonho - 2026-09-20.md",
-    "Sonhos/Sonho - 2026-09-19.md",
-    "Sonhos/Sonho - 2026-09-18.md",
-    "Sonhos/Sonho - 2026-09-17.md",
-    "Sonhos/Sonho - 2026-09-16.md",
     "Sonhos/Sonho - 2026-09-15.md",
-    "Contextos/Luangelus.md",
-    "Contextos/Cássia.md",
-    "Contextos/Marcela.md",
-    "Sonhos/Sonho - Cobrinha, caverna, roubo e identidade (sem data).md",
-    "Sonhos/Sonho - 2026-09-11.md",
-    "Sonhos/Sonho - 2026-09-04.md",
-    "Sonhos/2026-09-19.md",
-    "Sonhos/2026-09-20.md",
-    "AGENTS.md",
+    "Imaginação ativa/Hipóteses/ASTRA — HIPÓTESE.md",
+    "Imaginação ativa/Hipóteses",
+    "Imaginação ativa/Mapas/Sem título.md",
+    "Sonhos/Sonho - 2026-09-16.md",
+    "Sonhos/Sonho - 2026-06-22.md",
+    "Sonhos/Temas/Ascensão.md",
+    "Sonhos/Sonho - 2026-06-19.md",
+    "Sonhos/Sonho - 2026-06-18.md",
+    "Sonhos/Sonho - 2026-06-17.md",
+    "Sonhos/Sonho - 2026-06-15.md",
+    "Sonhos/Sonho - 2026-06-10.md",
+    "Sonhos/Sonho - 2026-06-07.md",
+    "Sonhos/Sonho - 31-03 (ano incerto).md",
     "Sonhos/Sonho - 17-03 (ano incerto) - Backrooms infinito.md",
-    "Sonhos/Sonho - Aparência, identidade e corpo (sem data).md",
-    "settings.gradle.kts",
-    "gradlew.bat",
-    "gradlew",
-    "gradle/wrapper/gradle-wrapper.properties",
-    "gradle/wrapper/gradle-wrapper.jar",
-    "gradle/wrapper",
-    "gradle/libs.versions.toml",
-    "gradle",
-    "gradle.properties",
-    "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
-    "app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp",
-    "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
-    "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
-    "app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp",
-    "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
-    "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
-    "app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp",
-    "app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
-    "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    "Sonhos/2026-10-02.md",
+    "Sonhos/2026-09-28.md",
+    "Contextos/Sandro.md",
+    "Sonhos/2026-10-28.md",
+    "Sonhos/2026-10-26.md",
+    "Sonhos/2026-10-25.md",
+    "Sonhos/2026-10-23.md",
+    "Sonhos/2026-10-22.md",
+    "Sonhos/2026-10-21.md",
+    "Sonhos/2026-10-20.md",
+    "Sonhos/2026-10-19.md",
+    "Sonhos/2026-10-16.md",
+    "Imaginação ativa/Mapas",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/ui/fragment/CloneRepoFragment.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/ui/adapter/RepoListAdapter.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/ui/adapter/RecentCommitsAdapter.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/ui/adapter/ApplicationListAdapter.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/ui/adapter/ApplicationGridAdapter.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/util/SettingsManager.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/util/Logger.kt",
+    "Contextos/app/src/main/java/com/viscouspot/gitsync/util/Helper.kt",
+    "Contextos/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "Contextos/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp",
+    "Contextos/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "Contextos/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+    "Contextos/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp",
+    "Contextos/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+    "Contextos/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "Contextos/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp",
+    "Contextos/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+    "Contextos/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
   ]
 }

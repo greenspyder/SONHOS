@@ -41,8 +41,8 @@ Desvalorização (réplica)
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Sandro]]
+[[Gabi]]
+[[Sandro]]
 
 ## Elementos
 

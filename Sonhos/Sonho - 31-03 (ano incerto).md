@@ -16,7 +16,7 @@ Raiva
 
 ## Pessoas
 
-[[Contextos/Pai]]
+[[Pai]]
 
 ## Relações
 

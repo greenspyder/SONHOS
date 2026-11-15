@@ -27,7 +27,7 @@ Sensação de se esconder
 
 ## Pessoas
 
-[[Contextos/Irmão]]
+[[Irmão]]
 
 ## Temas
 

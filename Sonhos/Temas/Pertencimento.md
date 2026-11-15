@@ -14,10 +14,10 @@ O tema de pertencimento aparece de forma central na interpretação registrada p
 - [[Sonho - Conexão, limites e rejeição (sem data)]] — lado oposto do tema: sensação de rejeição e não pertencimento.
 - [[Identidade]]
 - [[Persona]]
-- [[Contextos/Gabi]]
-- [[Contextos/Pai]]
-- [[Contextos/Mãe]]
-- [[Contextos/Pablo]]
+- [[Gabi]]
+- [[Pai]]
+- [[Mãe]]
+- [[Pablo]]
 
 ## Observação
 

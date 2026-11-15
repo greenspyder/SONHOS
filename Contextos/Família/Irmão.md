@@ -27,7 +27,7 @@ Tem aproximadamente 12 anos, é um menino de estatura relativamente baixa, corpo
 
 Costumo chamá-lo carinhosamente de Pê.
 
-Temos a mesma mãe, [[Contextos/Mãe|Gisele]], mas pais diferentes.
+Temos a mesma mãe, [[Mãe|Gisele]], mas pais diferentes.
 
 Apesar da diferença de idade, tenho uma relação afetiva muito importante com ele.
 
@@ -247,11 +247,11 @@ Uma questão importante é aprender a participar de seu crescimento sem projetar
 
 Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Mãe]]
-- [[Contextos/Pai]]
-- [[Contextos/Gabi]]
-- [[Contextos/Bom parto]]
+- [[Eu]]
+- [[Mãe]]
+- [[Pai]]
+- [[Gabi]]
+- [[Bom parto]]
 
 ---
 

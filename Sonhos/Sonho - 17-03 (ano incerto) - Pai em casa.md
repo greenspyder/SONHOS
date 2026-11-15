@@ -15,7 +15,7 @@ Paz, alegria
 
 ## Pessoas
 
-[[Contextos/Pai]]
+[[Pai]]
 
 ## Relações
 

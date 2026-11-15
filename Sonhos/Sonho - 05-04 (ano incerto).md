@@ -15,7 +15,7 @@ Ansiedade
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Elementos
 

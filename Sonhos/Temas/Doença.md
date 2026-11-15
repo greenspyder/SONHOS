@@ -11,8 +11,8 @@ O tema de doença aparece no sonho de 15/09/2026, em que Luangelus é mencionado
 ## Relações
 
 - [[Sonho - 2026-09-15]]
-- [[Contextos/Luangelus]]
-- [[Contextos/Rodrigo]]
+- [[Luangelus]]
+- [[Rodrigo]]
 
 ## Observação
 

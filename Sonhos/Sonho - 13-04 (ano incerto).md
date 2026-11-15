@@ -19,7 +19,7 @@ Confusão
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Relações
 

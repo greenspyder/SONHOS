@@ -22,7 +22,7 @@ Pablo aparece como personagem em vários registros, com presença de jacaré, ca
 
 ## Relações
 
-- [[Contextos/Gabi]]
+- [[Gabi]]
 - [[Sonho - 2026-09-04]]
 
 ## Temas relacionados

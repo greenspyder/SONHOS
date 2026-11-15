@@ -18,8 +18,8 @@ Não especificada além de "senti ciúmes" no próprio relato.
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Pai]]
+[[Gabi]]
+[[Pai]]
 
 ## Elementos
 

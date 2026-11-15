@@ -18,8 +18,8 @@ Preocupação
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Mãe]]
+[[Gabi]]
+[[Mãe]]
 
 ## Lugares
 

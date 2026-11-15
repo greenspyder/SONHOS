@@ -47,8 +47,8 @@ Raiva por ser diminuído
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Sandro]]
+[[Gabi]]
+[[Sandro]]
 
 ## Elementos
 

@@ -12,7 +12,7 @@ O tema de proteção aparece em cenas em que o sonhador defende alguém próximo
 
 - [[Sonho - 2026-07-10]]
 - [[Coruja]]
-- [[Contextos/Gabi]]
+- [[Gabi]]
 - Sonhos (historico) (arquivo removido do vault)
 
 ## Observação

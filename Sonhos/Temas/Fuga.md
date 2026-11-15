@@ -17,12 +17,12 @@ A fuga aparece como resposta a perseguição, presença de animais, mistérios, 
 - [[Sonho - 2026-09-11]]
 - [[Sonho - 2026-09-13]]
 - [[Sonho - 2026-08-06]]
-- [[Contextos/Gabi]]
-- [[Contextos/Pai]]
-- [[Contextos/Victor]]
-- [[Contextos/Leozinho]]
-- [[Contextos/Gordim]]
-- [[Contextos/Lucas Lima]]
+- [[Gabi]]
+- [[Pai]]
+- [[Victor]]
+- [[Leozinho]]
+- [[Gordim]]
+- [[Lucas Lima]]
 - Sonhos (historico) (arquivo removido do vault)
 
 ## Observação

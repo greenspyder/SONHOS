@@ -18,7 +18,7 @@ Curiosidade
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Elementos
 

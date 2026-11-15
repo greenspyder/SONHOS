@@ -6,7 +6,7 @@ Ele e minha mae sao separados desde que eu tinha uns 7 ou 8 anos.
 Desde os 18 ele bebe comigo e damos bastante risada. Sempre tivemos uma boa relação. Ele mora longe de mim, uma hora e meia de metrô, o que dificulta as vezes nossos encontros hoje em dia, mas sempre que vou pra casa dele damos risada, bebemos, ouvimos musica e falamos merda. 
 Gosto bastante do meu pai.
 Poderia-se dizer, atualmente, que ele se tornou alcoólatra. 
-De acordo com minha [[Contextos/Mãe]], na epoca eles terminaram porque meu pai queria muito ir em balada e minha mae nao queria, queria ficar em casa cuidar de mim e descansar. 
+De acordo com minha [[Mãe]], na epoca eles terminaram porque meu pai queria muito ir em balada e minha mae nao queria, queria ficar em casa cuidar de mim e descansar. 
 Vale comentar, tenho 2 irmãs por parte de pai, Manuela e Fernanda. 
 
 
@@ -44,7 +44,7 @@ Gosto muito do meu pai e considero que sempre tivemos uma boa relação.
 
 Meus pais se separaram quando eu tinha aproximadamente 7 ou 8 anos.
 
-Desde então, cresci morando com minha mãe, [[Contextos/Mãe|Gisele]].
+Desde então, cresci morando com minha mãe, [[Mãe|Gisele]].
 
 Segundo o relato dela, uma das dificuldades do relacionamento era que meu pai gostava de sair para festas e baladas, enquanto ela preferia ficar em casa, descansar e cuidar de mim.
 
@@ -101,7 +101,7 @@ Tenho duas irmãs por parte de pai:
 - Manuela.
 - Fernanda.
 
-Também tenho um irmão por parte de mãe, [[Contextos/Irmão|Pedro]].
+Também tenho um irmão por parte de mãe, [[Irmão|Pedro]].
 
 Minha estrutura familiar envolve diferentes núcleos e relações construídas ao longo do tempo.
 
@@ -138,7 +138,7 @@ Entretanto, meu desenvolvimento também foi influenciado por outras figuras masc
 
 Atualmente, admiro características diferentes em diferentes homens.
 
-Por exemplo, [[Contextos/Rigoli|Rigoli]] representa para mim um modelo de disciplina, competência profissional, organização e aparente estabilidade.
+Por exemplo, [[Rigoli|Rigoli]] representa para mim um modelo de disciplina, competência profissional, organização e aparente estabilidade.
 
 Meu pai, por outro lado, está associado a uma relação afetiva construída ao longo da vida e a experiências de descontração e familiaridade.
 
@@ -253,12 +253,12 @@ Em muitos casos, pode simplesmente representar minha relação concreta com ele.
 
 Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Mãe]]
-- [[Contextos/Irmão]]
-- [[Contextos/Rigoli]]
-- [[Contextos/Sandro]]
-- [[Contextos/Bom parto]]
+- [[Eu]]
+- [[Mãe]]
+- [[Irmão]]
+- [[Rigoli]]
+- [[Sandro]]
+- [[Bom parto]]
 
 ---
 

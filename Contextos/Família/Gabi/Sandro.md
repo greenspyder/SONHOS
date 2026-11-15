@@ -15,7 +15,7 @@ type: person name: Sandro relationship: sogro tags:
 
 ## Contexto
 
-Sandro é pai de [[Contextos/Gabi|Gabriela]], minha namorada.
+Sandro é pai de [[Gabi|Gabriela]], minha namorada.
 
 Faz parte do meu convívio familiar e aparece em diversos sonhos.
 
@@ -50,8 +50,8 @@ Esses temas pertencem aos relatos dos sonhos e não devem ser considerados carac
 
 ## Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Gabi]]
+- [[Eu]]
+- [[Gabi]]
 
 ## Observação
 

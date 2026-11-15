@@ -10,7 +10,7 @@ Alguém estudava em uma faculdade bem grande que lembrava até minha antiga esco
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Relações
 

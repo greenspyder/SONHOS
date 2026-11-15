@@ -25,11 +25,11 @@ Bom Parto — Adolescência, amizades e pertencimento
 
 Durante minha adolescência, por volta dos 16 ou 17 anos, participei de um grupo de amigos que costumava frequentar uma praça chamada Bom Parto.
 
-Entrei nesse círculo social inicialmente através de duas pessoas que queriam montar uma banda comigo: Guilherme, conhecido como [[Contextos/Guitarra|Guitarra]], e [[Contextos/Berardo|Berardo]].
+Entrei nesse círculo social inicialmente através de duas pessoas que queriam montar uma banda comigo: Guilherme, conhecido como [[Guitarra|Guitarra]], e [[Berardo|Berardo]].
 
 A banda se chamava Mushroom Garden.
 
-Posteriormente, conheci outras pessoas do grupo, incluindo [[Contextos/Victor|Victor]] e Leozinho.
+Posteriormente, conheci outras pessoas do grupo, incluindo [[Victor|Victor]] e Leozinho.
 
 Esse período foi importante para minha formação social e pessoal. Embora compartilhasse interesses com essas pessoas, considero hoje que muitas delas representavam influências negativas.
 
@@ -125,7 +125,7 @@ Uma possível continuidade
 
 Atualmente, em algumas relações profissionais, percebo que atribuo bastante importância à admiração de pessoas que considero inteligentes, competentes ou socialmente seguras.
 
-Um exemplo é minha relação com [[Contextos/Rigoli|Rigoli]].
+Um exemplo é minha relação com [[Rigoli|Rigoli]].
 
 Embora as situações sejam muito diferentes, existe uma pergunta interessante:
 
@@ -195,11 +195,11 @@ A interpretação deve considerar:
 
 Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Guitarra]]
-- [[Contextos/Berardo]]
-- [[Contextos/Victor]]
-- [[Contextos/Rigoli]]
+- [[Eu]]
+- [[Guitarra]]
+- [[Berardo]]
+- [[Victor]]
+- [[Rigoli]]
 
 ---
 

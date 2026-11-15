@@ -26,7 +26,7 @@ Responsabilidade emocional
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Elementos
 

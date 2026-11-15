@@ -18,9 +18,9 @@ Antes, no sonho, eu tambem tinha tomado banho junto com a gabi, em outro banheir
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Sandro]]
-[[Contextos/Irmão]]
+[[Gabi]]
+[[Sandro]]
+[[Irmão]]
 
 ## Lugares
 

@@ -24,14 +24,14 @@ Alguma zoeira sobre eu perguntar pro fidelis meu amigo se ele ouviu tal musica: 
 
 ## Pessoas
 
-[[Contextos/Gabi]]
-[[Contextos/Pablo]]
-[[Contextos/Sandro]]
-[[Contextos/Rodrigo]]
+[[Gabi]]
+[[Pablo]]
+[[Sandro]]
+[[Rodrigo]]
 
 ## Lugares
 
-[[Contextos/BTG e Inteli]]
+[[BTG e Inteli]]
 
 ## Elementos
 

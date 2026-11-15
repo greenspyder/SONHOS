@@ -22,12 +22,12 @@ Em alguma parte do sonho teve algo sobre uma religião diferente que remetia a r
 
 ## Pessoas
 
-[[Contextos/Pai]]
-[[Contextos/Gabi]]
+[[Pai]]
+[[Gabi]]
 
 ## Lugares
 
-[[Contextos/BTG e Inteli]]
+[[BTG e Inteli]]
 [[Hotel]]
 
 ## Elementos

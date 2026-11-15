@@ -16,11 +16,11 @@ O tema de perigo aparece em vários sonhos, associado a ameaças, armas, persegu
 - [[Sonho - 2026-07-13]]
 - [[Perseguição]]
 - [[Fuga]]
-- [[Contextos/Gabi]]
-- [[Contextos/Victor]]
-- [[Contextos/Leozinho]]
-- [[Contextos/Gordim]]
-- [[Contextos/Lucas Lima]]
+- [[Gabi]]
+- [[Victor]]
+- [[Leozinho]]
+- [[Gordim]]
+- [[Lucas Lima]]
 - Sonhos (historico) (arquivo removido do vault)
 
 ## Observação

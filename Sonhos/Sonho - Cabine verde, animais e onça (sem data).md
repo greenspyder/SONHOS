@@ -35,7 +35,7 @@ Alívio
 
 ## Pessoas
 
-[[Contextos/Mãe]]
+[[Mãe]]
 
 ## Lugares
 

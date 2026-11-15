@@ -38,9 +38,9 @@ Undertone na vida real é um filme de terror (A24), no sonho virou livro
 
 ## Pessoas
 
-[[Contextos/Sandro]]
-[[Contextos/Irmão]]
-[[Contextos/Pablo]]
+[[Sandro]]
+[[Irmão]]
+[[Pablo]]
 
 ## Temas
 

@@ -65,7 +65,7 @@ Os sonhos mostram principalmente minha experiência subjetiva da relação.
 
 A família ocupa um lugar importante na vida de Gabi.
 
-Seu pai é [[Contextos/Sandro|Sandro]], que também aparece frequentemente nos meus sonhos.
+Seu pai é [[Sandro|Sandro]], que também aparece frequentemente nos meus sonhos.
 
 Percebo que as relações familiares influenciam sua maneira de compreender responsabilidades, cuidado e convivência.
 
@@ -146,11 +146,11 @@ Não significa necessariamente que ela esteja insatisfeita comigo na vida real.
 
 Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Sandro]]
-- [[Contextos/Mãe]]
-- [[Contextos/Pai]]
-- [[Contextos/Irmão]]
+- [[Eu]]
+- [[Sandro]]
+- [[Mãe]]
+- [[Pai]]
+- [[Irmão]]
 
 ---
 

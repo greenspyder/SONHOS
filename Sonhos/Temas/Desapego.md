@@ -14,11 +14,11 @@ Você frequentemente está tentando chegar a uma posição em que consegue ver a
 
 - [[Sonho - 2026-09-13]]
 - [[Identidade]]
-- [[Contextos/Gabi]]
-- [[Contextos/Victor]]
-- [[Contextos/Leozinho]]
-- [[Contextos/Gordim]]
-- [[Contextos/Lucas Lima]]
+- [[Gabi]]
+- [[Victor]]
+- [[Leozinho]]
+- [[Gordim]]
+- [[Lucas Lima]]
 
 ## Observação
 

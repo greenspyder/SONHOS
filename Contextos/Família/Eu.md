@@ -26,7 +26,7 @@ Registrar minha história, personalidade, relações, interesses e conflitos int
 
 1. História familiar e infância
 
-Nasci e cresci em São Paulo. Meus pais, [[Contextos/Pai|Fábio]] e [[Contextos/Mãe|Gisele]], se separaram quando eu tinha aproximadamente 7 ou 8 anos.
+Nasci e cresci em São Paulo. Meus pais, [[Pai|Fábio]] e [[Mãe|Gisele]], se separaram quando eu tinha aproximadamente 7 ou 8 anos.
 
 Sempre morei com minha mãe, que foi minha principal referência cotidiana de cuidado. Considero que ela foi uma boa mãe, atenciosa comigo e com meu irmão, embora perceba nela dificuldades relacionadas à autoestima, autonomia e sensibilidade emocional.
 
@@ -34,7 +34,7 @@ Meu pai sempre teve uma relação afetuosa comigo. É uma pessoa divertida, liga
 
 Essa distinção é importante: não considero meu pai simplesmente ausente afetivamente, mas sua presença na minha formação foi diferente daquela de um pai que compartilha diariamente a vida doméstica.
 
-Tenho um irmão mais novo por parte de mãe, [[Contextos/Irmão|Pedro]], e duas irmãs por parte de pai, Manuela e Fernanda.
+Tenho um irmão mais novo por parte de mãe, [[Irmão|Pedro]], e duas irmãs por parte de pai, Manuela e Fernanda.
 
 Questões para investigação
 
@@ -48,7 +48,7 @@ Questões para investigação
 
 Durante a adolescência, aproximadamente aos 16–17 anos, participei de um grupo de amigos que frequentava a praça Bom Parto.
 
-Entrei nesse círculo através da banda Mushroom Garden, formada inicialmente com [[Contextos/Guitarra|Guitarra]] e [[Contextos/Berardo|Berardo]].
+Entrei nesse círculo através da banda Mushroom Garden, formada inicialmente com [[Guitarra|Guitarra]] e [[Berardo|Berardo]].
 
 Apesar dos interesses compartilhados, frequentemente me sentia diminuído por alguns integrantes do grupo.
 
@@ -88,7 +88,7 @@ Já expressei sentir que estou decepcionando pessoas que admiro, mesmo reconhece
 
 Relação com Rigoli
 
-Meu chefe, [[Contextos/Rigoli|Rigoli]], representa uma referência importante de competência, disciplina, inteligência e estabilidade.
+Meu chefe, [[Rigoli|Rigoli]], representa uma referência importante de competência, disciplina, inteligência e estabilidade.
 
 Admiro sua capacidade profissional, aparência, hábitos saudáveis e aparente segurança pessoal.
 
@@ -110,7 +110,7 @@ Questões centrais
 
 4. Relacionamento amoroso
 
-Estou em um relacionamento com [[Contextos/Gabi|Gabriela]] desde 04/04/2022.
+Estou em um relacionamento com [[Gabi|Gabriela]] desde 04/04/2022.
 
 Gabi ocupa um espaço central na minha vida afetiva.
 
@@ -302,15 +302,15 @@ Uma questão central deste momento é distinguir quem realmente desejo me tornar
 
 Links relacionados
 
-- [[Contextos/Pai]]
-- [[Contextos/Mãe]]
-- [[Contextos/Irmão]]
-- [[Contextos/Gabi]]
-- [[Contextos/Rigoli]]
-- [[Contextos/Sandro]]
-- [[Contextos/Bom parto]]
-- [[Contextos/Guitarra]]
-- [[Contextos/Berardo]]
+- [[Pai]]
+- [[Mãe]]
+- [[Irmão]]
+- [[Gabi]]
+- [[Rigoli]]
+- [[Sandro]]
+- [[Bom parto]]
+- [[Guitarra]]
+- [[Berardo]]
 
 ---
 

@@ -25,7 +25,7 @@ referência ao padrasto
 
 ## Pessoas
 
-[[Contextos/Mãe]]
+[[Mãe]]
 
 ## Relações
 

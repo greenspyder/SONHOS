@@ -1,7 +1,7 @@
 Minha mae de chama Gisele. 
 Ela é gordinha, alta, tem cabelo longo e preto. 
 Sempre vivi com ela.
-Ela sempre foi bem atenciosa no sentido de nao tratar eu e meu irmao mal mas as vezes ela é um pouco desligada e tambem é sensível demais. Ela nao parece tomar decisões por si mesma, por sua baixa auto estima. Talvez fruto dessa baixa auto estima, ela me teve de um homem, teve meu [[Contextos/Irmão]] de outro e atualmente namora outro homem. Digo isso porque isso leva a entender que ela escolhe mal seus parceiros. 
+Ela sempre foi bem atenciosa no sentido de nao tratar eu e meu irmao mal mas as vezes ela é um pouco desligada e tambem é sensível demais. Ela nao parece tomar decisões por si mesma, por sua baixa auto estima. Talvez fruto dessa baixa auto estima, ela me teve de um homem, teve meu [[Irmão]] de outro e atualmente namora outro homem. Digo isso porque isso leva a entender que ela escolhe mal seus parceiros. 
 No geral ela é uma ótima mae, apesar desses pontos complicados que dizem respeito a forma que ela trata a si mesma e consequentemente a forma com que ela cuida de nós. 
 
 
@@ -33,7 +33,7 @@ Sempre vivi com ela. Desde a separação dos meus pais, quando eu tinha aproxima
 
 Considero que ela é uma ótima mãe.
 
-Sempre foi atenciosa comigo e com meu irmão, [[Contextos/Irmão|Pedro]], especialmente no sentido de não nos tratar mal e demonstrar preocupação com nosso bem-estar.
+Sempre foi atenciosa comigo e com meu irmão, [[Irmão|Pedro]], especialmente no sentido de não nos tratar mal e demonstrar preocupação com nosso bem-estar.
 
 Entretanto, também reconheço características de sua personalidade que considero difíceis, principalmente relacionadas à sensibilidade emocional, autoestima e autonomia.
 
@@ -41,7 +41,7 @@ Essas percepções não anulam o carinho e a gratidão que sinto por ela.
 
 2. Infância e convivência familiar
 
-Cresci morando com minha mãe após a separação dela de [[Contextos/Pai|Fábio]].
+Cresci morando com minha mãe após a separação dela de [[Pai|Fábio]].
 
 Por isso, sua presença teve uma importância especialmente grande na construção da minha percepção sobre família, cuidado, segurança e convivência.
 
@@ -131,7 +131,7 @@ Entretanto, é uma hipótese que merece investigação, especialmente consideran
 
 6. Minha mãe e Pedro
 
-Minha mãe também é responsável pela criação de [[Contextos/Irmão|Pedro]], meu irmão mais novo.
+Minha mãe também é responsável pela criação de [[Irmão|Pedro]], meu irmão mais novo.
 
 Tenho um vínculo afetivo importante com ele e desejo participar ativamente de sua vida.
 
@@ -169,7 +169,7 @@ Talvez uma parte importante do meu amadurecimento seja aprender a cuidar das pes
 
 8. Relação com Gabi
 
-Minha namorada, [[Contextos/Gabi|Gabriela]], também é uma pessoa que percebo como bastante afetiva e ligada à família.
+Minha namorada, [[Gabi|Gabriela]], também é uma pessoa que percebo como bastante afetiva e ligada à família.
 
 Já refleti sobre a possibilidade de existirem semelhanças entre determinadas características dela e de minha mãe, especialmente em relação ao cuidado e à importância atribuída aos vínculos familiares.
 
@@ -275,12 +275,12 @@ Também é importante observar quando ela aparece em situações inesperadas ou 
 
 Contextos relacionados
 
-- [[Contextos/Eu]]
-- [[Contextos/Pai]]
-- [[Contextos/Irmão]]
-- [[Contextos/Gabi]]
-- [[Contextos/Rodrigo]]
-- [[Contextos/Sandro]]
+- [[Eu]]
+- [[Pai]]
+- [[Irmão]]
+- [[Gabi]]
+- [[Rodrigo]]
+- [[Sandro]]
 
 ---
 

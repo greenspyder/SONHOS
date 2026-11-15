@@ -26,4 +26,4 @@ Com apenas uma aparição, não há evidência suficiente para hipóteses sobre 
 
 ## Relações
 
-- [[Contextos/Pai]]
+- [[Pai]]

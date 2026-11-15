@@ -17,11 +17,11 @@ Nervosismo, ansiedade
 
 ## Pessoas
 
-[[Contextos/Gabi]]
+[[Gabi]]
 
 ## Lugares
 
-[[Contextos/BTG e Inteli]]
+[[BTG e Inteli]]
 
 ## Temas
 

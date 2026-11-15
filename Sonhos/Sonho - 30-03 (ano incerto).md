@@ -15,7 +15,7 @@ Não especificada no material original.
 
 ## Pessoas
 
-[[Contextos/Pai]]
+[[Pai]]
 
 ## Relações
 

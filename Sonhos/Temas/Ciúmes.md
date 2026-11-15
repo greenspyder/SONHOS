@@ -13,11 +13,11 @@ O tema de ciúmes aparece em múltiplos registros de sonho, geralmente ligado a 
 - [[Sonho - 2026-06-19]]
 - [[Sonho - 03-04 (ano incerto)]]
 - [[Sonho - 14-04 (ano incerto)]]
-- [[Contextos/Gabi]]
-- [[Contextos/Pai]]
-- [[Contextos/Irmão]]
-- [[Contextos/Pablo]]
-- [[Contextos/Sandro]]
+- [[Gabi]]
+- [[Pai]]
+- [[Irmão]]
+- [[Pablo]]
+- [[Sandro]]
 - Sonhos (historico) (arquivo removido do vault)
 
 ## Observação

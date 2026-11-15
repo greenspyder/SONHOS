@@ -1,0 +1,1 @@
+Visão nas alturas, visão macro e ampla das coisas.

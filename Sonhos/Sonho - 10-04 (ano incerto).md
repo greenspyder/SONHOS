@@ -38,7 +38,7 @@ Não especificada no material original.
 
 ## Lugares
 
-[[Git/Sonhos/Simbolos/Resort]]
+[[Git/Sonhos/Simbolos/Lugares/Resort]]
 [[Casa antiga]]
 
 ## Elementos

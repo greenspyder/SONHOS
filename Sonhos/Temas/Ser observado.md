@@ -10,7 +10,7 @@ O tema de observação aparece em vários registros, com presença de florestas,
 
 ## Relações
 
-- [[Git/Sonhos/Simbolos/Floresta]]
+- [[Git/Sonhos/Simbolos/Lugares/Floresta]]
 - [[Montanha]]
 - [[Polvo]]
 - [[Monstro]]

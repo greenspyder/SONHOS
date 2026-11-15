@@ -23,7 +23,7 @@ Curiosidade
 ## Elementos
 
 [[Cachorro]]
-[[Git/Sonhos/Simbolos/Backrooms]]
+[[Git/Sonhos/Simbolos/Lugares/Backrooms]]
 
 ## Temas
 
